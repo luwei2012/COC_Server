@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "COC", "COC\COC.vcxproj", "{38DB18A4-2DDB-4FB3-9E04-D64270BF54B8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupCOC", "SetupCOC\SetupCOC.vdproj", "{395A324F-682E-4649-ADF4-05026BAE522F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38DB18A4-2DDB-4FB3-9E04-D64270BF54B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{38DB18A4-2DDB-4FB3-9E04-D64270BF54B8}.Debug|Win32.Build.0 = Debug|Win32
+		{38DB18A4-2DDB-4FB3-9E04-D64270BF54B8}.Release|Win32.ActiveCfg = Release|Win32
+		{38DB18A4-2DDB-4FB3-9E04-D64270BF54B8}.Release|Win32.Build.0 = Release|Win32
+		{395A324F-682E-4649-ADF4-05026BAE522F}.Debug|Win32.ActiveCfg = Debug
+		{395A324F-682E-4649-ADF4-05026BAE522F}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+#pragma once
+
+#define WM_CONNECT_REQ WM_USER+2
+#define WM_CONNECT_ACK WM_USER+3
+#define WM_START_REQ WM_USER+4
+#define WM_START_ACK WM_USER+5
+#define WM_TIME_REQ WM_USER+6
+#define WM_TIME_ACK WM_USER+7
+#define WM_IP_REQ WM_USER+8
+#define WM_IP_ACK WM_USER+9 
+#define WM_STOP_REQ WM_USER+10
+#define WM_STOP_ACK WM_USER+11
+
