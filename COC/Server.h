@@ -1,12 +1,12 @@
 #pragma once
 
-// CServer ÃüÁîÄ¿±ê
+// CServer ÃƒÃ¼ÃÃ®Ã„Â¿Â±Ãª
 
 class CCOCDlg;
 
-class CServer : public CAsyncSocket
+class CServer : private CAsyncSocket
 {
-public:
+private:
 	CServer(CCOCDlg* pwnd=NULL);
 	virtual ~CServer();
 	CCOCDlg* m_pWnd;
@@ -20,3 +20,4 @@ public:
 };
 
 
+coc pc=private server=99999999999999999999999999999999999999999999999999999999 gems
